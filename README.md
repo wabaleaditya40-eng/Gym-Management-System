@@ -65,6 +65,10 @@ Username:
 Password:
 `admin123`
 
+## 📸 Project Screenshot
+
+![Gym Management System](gym%20screenshot/home.png)
+
 ## 👨‍💻 Authors
 
 Aviraj, Kunal & Aditya
